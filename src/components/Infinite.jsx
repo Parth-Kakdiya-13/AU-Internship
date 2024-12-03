@@ -41,7 +41,7 @@ const InfiniteScroll = () => {
                 </ul>
             </div> */}
 
-            <div className="scroller" data-direction="right" data-speed="fast">
+            <div className="scroller pk" data-direction="right" data-speed="fast">
                 <div className="scroller__inner">
                     <img src="https://i.pravatar.cc/150?img=1" alt="Avatar 1" />
                     <img src="https://i.pravatar.cc/150?img=2" alt="Avatar 2" />
