@@ -1,7 +1,8 @@
 export const projectData = [
     {
         projectTitle: "free preview",
-        module: 1,
+        module: 0,
+        week: 0,
         projectDescription: "essential prerequisites",
         logo: "",
         projects: [{
@@ -23,7 +24,8 @@ export const projectData = [
     },
     {
         projectTitle: "dive streight in the deep end",
-        module: 2,
+        module: 1,
+        week: 1,
         projectDescription: "proprietary models & diffusion",
         logo: "",
         projects: [{
@@ -44,7 +46,8 @@ export const projectData = [
     },
     {
         projectTitle: "img2img, extension, inpainting",
-        module: 3,
+        module: 2,
+        week: 2,
         projectDescription: "intro to stable defusion",
         logo: "",
         projects: [{
@@ -65,7 +68,8 @@ export const projectData = [
     },
     {
         projectTitle: "mern preview",
-        module: 4,
+        module: 3,
+        week: 3,
         projectDescription: "essential prerequisites",
         logo: "",
         projects: [{

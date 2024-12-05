@@ -1,6 +1,6 @@
 .scroller {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 30px auto;
 }
 
 .scroller__inner {
@@ -60,7 +60,6 @@
   --clr-primary-800: hsl(217, 33%, 17%);
   --clr-primary-900: hsl(218, 33%, 9%);
 }
-
 
 /* body {
   display: grid;
